@@ -30,7 +30,7 @@ This application uses [Meta Graph API](https://developers.facebook.com/docs/grap
 - **OOP** designed, combined with **functional programming** when appropriate
 - Using **C#, the .NET Framework, Windows Forms, LINQ**.
 
-Check out the [About.docx](/About.docx) document for more details, including **UML** class and sequence diagrams.
+Check out the `About.docx` document for more details, including **UML** class and sequence diagrams.
 
 ## Authors
 

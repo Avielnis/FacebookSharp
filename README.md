@@ -41,7 +41,6 @@ Check out the [About.docx](/About.docx) document for more details, including **U
 ## License
 
 This application was developed as part of the Software Engineering using Design Patterns, lectured by Guy Ronen in Reichman University.  
-We do not own any of the photos / icons / external libraries in this app.
-For getting and/or using any of the external libraries which are in use in this project (and were not supplied in this repository) - please ask for permission from their creator.
-The other source files in this project are licensed under the GPL License (see the `LICENSE` file for more details).
+We do not own any of the photos / icons / external libraries in this app.  
+For getting and/or using any of the external libraries which are in use in this project (and were not supplied in this repository) - please ask for permission from their creator.  
 Please give credit if you use this code.

@@ -3,7 +3,7 @@
 **📣 Desktop Facebook Client** 
 
 <img width="300" alt="Screen About me" src="https://github.com/OferPeery/FacebookSharp/assets/90853508/53ca0d72-be8b-418e-b3ec-541b80f70760">
-<img width="300" alt="Screen Geo Challenge" src="https://github.com/OferPeery/FacebookSharp/assets/90853508/fec2c3d9-4b7e-470a-b5c5-3ff240e05f79">
+<img width="300" alt="Screen Geo Challenge" src="https://github.com/OferPeery/FacebookSharp/assets/90853508/1e9b0aab-3be0-4ef5-8eb4-0705704390a9">
 <img width="300" alt="Screen Login" src="https://github.com/OferPeery/FacebookSharp/assets/90853508/393e475b-470d-42e2-a924-c68f43f98ffb">
 
 

@@ -2,11 +2,10 @@
 
 **📣 Desktop Facebook Client** 
 
-<img width="500" alt="Screen My Posts" src="https://github.com/OferPeery/FacebookSharp/assets/90853508/deedf8f1-76e5-434c-8e07-0e5973f98543">
-<img width="500" alt="Screen Geo Challenge" src="https://github.com/OferPeery/FacebookSharp/assets/90853508/1e9b0aab-3be0-4ef5-8eb4-0705704390a9">
 <img width="372" alt="Screen Login" src="https://github.com/OferPeery/FacebookSharp/assets/90853508/393e475b-470d-42e2-a924-c68f43f98ffb">
 <img width="254" alt="Screen About Me" src="https://github.com/OferPeery/FacebookSharp/assets/90853508/6831bc58-dad8-4d2e-9be1-f7341bbc2769">
-<img width="372" alt="Screen Proceed" src="https://github.com/OferPeery/FacebookSharp/assets/90853508/45e3905a-1cfd-43c3-a36d-5b938a7d3034">
+<img width="500" alt="Screen My Posts" src="https://github.com/OferPeery/FacebookSharp/assets/90853508/deedf8f1-76e5-434c-8e07-0e5973f98543">
+<img width="500" alt="Screen Geo Challenge" src="https://github.com/OferPeery/FacebookSharp/assets/90853508/1e9b0aab-3be0-4ef5-8eb4-0705704390a9">
 
 
 ## Prerequisites

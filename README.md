@@ -1,6 +1,11 @@
 # Facebook#
 
 **📣 Desktop Facebook Client** 
+## Authors
+
+- Ofer Peery - peryofer7@gmail.com
+- Aviel Nisanov - avielnis222@gmail.com
+
 
 <img width="372" alt="Screen Login" src="https://github.com/OferPeery/FacebookSharp/assets/90853508/393e475b-470d-42e2-a924-c68f43f98ffb">
 <img width="254" alt="Screen About Me" src="https://github.com/OferPeery/FacebookSharp/assets/90853508/6831bc58-dad8-4d2e-9be1-f7341bbc2769">
@@ -32,10 +37,7 @@ This application uses [Meta Graph API](https://developers.facebook.com/docs/grap
 
 Check out the `About.docx` document for more details, including **UML** class and sequence diagrams.
 
-## Authors
 
-- Ofer Peery - peryofer7@gmail.com
-- Aviel Nisanov - avielnis222@gmail.com
 
 ## License
 
